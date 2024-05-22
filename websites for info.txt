@@ -6,3 +6,5 @@ https://en.wikipedia.org/wiki/OBD-II_PIDs
 
 https://en.wikipedia.org/wiki/Carrier-sense_multiple_access
 
+https://forums.raspberrypi.com/viewtopic.php?t=7982
+
